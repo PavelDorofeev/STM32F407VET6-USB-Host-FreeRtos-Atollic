@@ -1,0 +1,9 @@
+main.c:278:13:MX_GPIO_Init	64	static
+main.c:220:13:MX_TIM4_Init	72	static
+main.c:357:6:StartDefaultTask	8	static
+main.c:177:6:SystemClock_Config	96	static
+main.c:79:5:main	48	static
+main.c:318:6:USBH_HID_EventCallback	16	static
+main.c:390:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:411:6:Error_Handler	0	static
+main.c:427:6:assert_failed	0	static
